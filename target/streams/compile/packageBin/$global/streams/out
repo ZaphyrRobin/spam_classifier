@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\spam_classifier_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	spam_classifier$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	spam_classifier$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	spam_classifier$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	spam_classifier.class[0m
+[0m[[0mdebug[0m] [0m	  F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier.class[0m
+[0m[[0mdebug[0m] [0m	spam_classifier$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	spam_classifier$.class[0m
+[0m[[0mdebug[0m] [0m	  F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

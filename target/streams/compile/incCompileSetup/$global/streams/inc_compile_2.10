@@ -1,0 +1,152 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$1.class
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$2.class
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$3.class
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$4.class
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$.class
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier.class
+binary dependencies:
+4 items
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> C:\Users\Robin\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.4.0.jar
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> C:\Users\Robin\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.4.0.jar
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> C:\Users\Robin\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spam_classifier
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spam_classifier$
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spam_classifier$$anonfun$1
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spam_classifier$$anonfun$2
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spam_classifier$$anonfun$3
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spam_classifier$$anonfun$4
+used names:
+56 items
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> ++
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> <init>
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> AnyRef
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> Array
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> ClassTag
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> HashingTF
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> LabeledPoint
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> LogisticRegressionWithSGD
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> Predef
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> SparkConf
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> SparkContext
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> String
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> StringContext
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> Unit
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> apache
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> apply
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> cache
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> classification
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> conf
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> email
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> feature
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> features
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> ham
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> hamFeatures
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> lrLearner
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> map
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> materializeClassTag
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> mllib
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> model
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> negTestExample
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> negativeExamples
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> org
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> package
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> posTestExample
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> positiveExamples
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> predict
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> println
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> regression
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> run
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> s
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> sc
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> scala
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> set
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> setAppName
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> setMaster
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spam
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spamFeatures
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spam_classifier
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> spark
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> split
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> stop
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> textFile
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> tf
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> trainingData
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> transform
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> wrapRefArray
+product stamps:
+6 items
+F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$1.class -> lastModified(1435605618641)
+F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$2.class -> lastModified(1435605618657)
+F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$3.class -> lastModified(1435605618661)
+F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$$anonfun$4.class -> lastModified(1435605618669)
+F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier$.class -> lastModified(1435605618620)
+F:\intellij_workspace\Spark\spam_classifier\target\scala-2.10\classes\spam_classifier.class -> lastModified(1435605618551)
+source stamps:
+1 items
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> hash(4d72674ba5b692dd77a492978f4449c267d4d6a3)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar -> lastModified(1432090216716)
+C:\Users\Robin\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.4.0.jar -> lastModified(1433966084000)
+C:\Users\Robin\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.4.0.jar -> lastModified(1433966020000)
+C:\Users\Robin\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> lastModified(1395179187000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Robin\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.4.0.jar -> org.apache.spark.rdd.RDD
+C:\Users\Robin\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.4.0.jar -> org.apache.spark.mllib.regression.GeneralizedLinearModel
+C:\Users\Robin\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> scala.Predef$
+internal apis:
+1 items
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA30kzYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK/16LF0AAZub3RpZnlzcQB+AAxdDNRmdAAEd2FpdHNxAH4ADOtcdRh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMDFs1o3QABmVxdWFsc3NxAH4ADNmEhuJ0AAxhc0luc3RhbmNlT2ZzcQB+AAwMIL0WdAAMc3luY2hyb25pemVkc3EAfgAMkZzjrnQADSRpc0luc3RhbmNlT2ZzcQB+AAzxxpufdAAPc3BhbV9jbGFzc2lmaWVyc3EAfgAMlxTc83QABG1haW5zcQB+AAwMaeZ7dAAJbm90aWZ5QWxsc3EAfgAM3EJ1UnQADGlzSW5zdGFuY2VPZnNxAH4ADGKKTtB0AAI9PXNxAH4ADIN2+Jx0AAVjbG9uZXNxAH4ADFOI9Tp0AAh0b1N0cmluZ3NxAH4ADKIZK0F0AAIhPXNxAH4ADKq3o2d0AAhnZXRDbGFzc3NxAH4ADERsXfN0AAJuZXNxAH4ADACUCtp0AAJlcXNxAH4ADPyGcJR0AAIjI3NxAH4ADEP5y6V0AAhmaW5hbGl6ZXNxAH4ADHAr/MN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AHXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFgAcHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGFzcQB+AFgAcHNxAH4AXXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGBzcQB+AHF0AAVBcnJheXEAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHF0AAZTdHJpbmdzcQB+AHVzcQB+AHh1cQB+AHsAAAADc3EAfgB9dAAEamF2YXNxAH4AfXQABGxhbmdxAH4AgnNxAH4AWABwc3EAfgBddXEAfgA8AAAAAHNxAH4AWABwc3EAfgBddXEAfgCWAAAAAnNxAH4AcXQABk9iamVjdHEAfgCac3EAfgBxdAADQW55cQB+AHd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkDDPCF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFRjpcaW50ZWxsaWpfd29ya3NwYWNlXFNwYXJrXHNwYW1fY2xhc3NpZmllclx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUTXJnS6W2kt13pJKXj0RJwmfU1qM=
+external apis:
+0 items
+source infos:
+1 items
+F:\intellij_workspace\Spark\spam_classifier\src\main\scala\spam_classifier.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkDDPCF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUY6XGludGVsbGlqX3dvcmtzcGFjZVxTcGFya1xzcGFtX2NsYXNzaWZpZXJcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
